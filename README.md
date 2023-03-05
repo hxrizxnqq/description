@@ -6,6 +6,3 @@
  
 Languages i work with:<br>
   <img src="https://skills.thijs.gg/icons?i=js,html,css"  width="120px">
-
-Technologies i work with:<br>
-  <img src="https://skills.thijs.gg/icons?i=git,figma" width="75px">
