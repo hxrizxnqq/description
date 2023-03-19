@@ -6,7 +6,7 @@
 
 <h1>I work with</h1>
 <details open>
-<summary><h3>Technologies</h3></summary>
+<summary><h3>Programming and Markup Languages</h3></summary>
 <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg" width=30px height=30px />
 <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg" width=30px height=30px />
 <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg" width=30px height=30px />
