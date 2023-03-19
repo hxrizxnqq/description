@@ -6,9 +6,12 @@
 
 <h1>I work with</h1>
 <details open>
-<summary><h3>Technologies<h3></summary>
+<summary><h3>Technologies</h3></summary>
 <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg" width=30px height=30px />
 <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg" width=30px height=30px />
+                                                                                   
+<summary><h3>Courses</h3></summary>
+<img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" alt="FreeCodeCamp">
 </details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hxrizxnqq&langs_count=8&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
