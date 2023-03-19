@@ -5,8 +5,8 @@
 </a>
 
 ## I work with
-<details>
-<summary style="font-size: 24px">Technologies</summary>
+<details open>
+<summary><h3>Technologies<h3></summary>
 <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg" width=30px height=30px />
 <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg" width=30px height=30px />
 </details>
