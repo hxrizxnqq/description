@@ -7,10 +7,10 @@
 <h1>I work with</h1>
 <details open>
 <summary><h3>Programming and Markup Languages</h3></summary>
-<img src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" width=30px height=30px />
-<img src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" width=30px height=30px />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" width=30px height=30px />
-<!-- <img src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" width=30px height=30px /> -->
+<img src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" />
 </details>
 
 <details open>                                                                                
