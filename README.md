@@ -8,6 +8,7 @@
 <details>
 <summary>Technologies</summary>
 <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg" width=30px height=30px />
+<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg" width=30px height=30px />
 </details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hxrizxnqq&langs_count=8&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
