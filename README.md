@@ -19,3 +19,4 @@
 </details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hxrizxnqq&langs_count=8&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hxrizxqq&theme=transparent&hide_border=true&fire=EB7600&ring=AEC9B9&currStreakNum=173E35&sideLabels=173E35&sideNums=173E35&currStreakLabel=173E35&dates=7D9C91)](https://git.io/streak-stats)
