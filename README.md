@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=&duration=4000&pause=500&color=000000&repeat=true&width=435&lines=coding+a+websites;welcome+(%5E%2F%2F%2F%5E)" alt="Typing SVG" />
 </a>
 
-## I work with
+<h1>I work with<h1>
 <details open>
 <summary><h3>Technologies<h3></summary>
 <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg" width=30px height=30px />
