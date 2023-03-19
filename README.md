@@ -1,5 +1,4 @@
 <img src="header.png" alt="Header">
-<img src="https://avatars.githubusercontent.com/u/125192601?v=4" alt="my-avatar" align="right">
 
 👨🏻‍💻 Developing sites.
 
