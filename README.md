@@ -13,11 +13,6 @@
 <img src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" />
 </details>
 
-<details open>                                                                                
-<summary><h3>Courses</h3></summary>
-<img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" alt="FreeCodeCamp">
-</details>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=hxrizxnqq&theme=transparent&hide_border=true&fire=EB7600&ring=AEC9B9&currStreakNum=173E35&sideLabels=173E35&sideNums=173E35&currStreakLabel=173E35&dates=7D9C91)](https://git.io/streak-stats) <br>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hxrizxnqq&langs_count=8&theme=transparent%title_color=#173e35&text_color=#173e35&icons_color=#006b5c)](https://github.com/anuraghazra/github-readme-stats) -->
