@@ -6,11 +6,10 @@
 
 <ul>
 <li>🧠 I'm a trainee Front End Developer</li>
-<li>
-📪 Contact with me
-<li>email: <a href="mailto:hxrizxnqq@hotmail.com">hxrizxnqq@hotmail.com</li>
-<li>telegram: <a href="https://t.me/divinelyrampaged">@divinelyrampaged</li>
-</li>
+<li>📪 Contact with me</li>
+  <li>email: <a href="mailto:hxrizxnqq@hotmail.com">hxrizxnqq@hotmail.com</li>
+  <li>telegram: <a href="https://t.me/divinelyrampaged">@divinelyrampaged</li>
+
 </ul>
 <details open>
 <summary><h3>Programming and Markup Languages</h3></summary>
