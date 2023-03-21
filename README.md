@@ -4,7 +4,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=&duration=4000&pause=500&color=000000&repeat=true&width=435&lines=coding+a+websites;welcome+(%5E%2F%2F%2F%5E)" alt="Typing SVG" />
 </a>
 
-<h1>I work with</h1>
+<h3>Information about</h3>
+<ul>
+<li>[social links]</li>
+<li>[smth]</li>
+<li>[smth]</li>
+</ul>
 <details open>
 <summary><h3>Programming and Markup Languages</h3></summary>
 <img src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" />
