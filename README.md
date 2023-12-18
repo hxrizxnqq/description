@@ -1,10 +1,10 @@
 ### HI, I'M HXRIZXNQQ (EUGENE)
 I am new in IT. Learning programming languages for **frontend**, like javascript and python for db.
+My Skills:
+- Javascript (20%)
+- HTML (80%)
+- CSS (60%)
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com?font=&duration=4000&pause=500&color=000000&repeat=true&width=435&lines=coding+a+websites;welcome+(%5E%2F%2F%2F%5E)" alt="Typing SVG" />
-
-
-- 🧠 I'm a trainee Front End Developer
 - 📪 Contact with me
   - email: <a href="mailto:hxrizxnqq@hotmail.com">hxrizxnqq@hotmail.com
   - telegram: <a href="https://t.me/divinelyrampaged">@divinelyrampaged
