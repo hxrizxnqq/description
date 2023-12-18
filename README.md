@@ -1,5 +1,5 @@
 ### HI, I'M HXRIZXNQQ (EUGENE)
-I am new in IT. Learning programming languages for **frontend**, like javascript and python for db.
+I am new in IT. Learning programming languages for **frontend**, like javascript and python for db.<br>
 My Skills:
 - Javascript (20%)
 - HTML (80%)
