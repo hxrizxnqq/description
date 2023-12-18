@@ -1,8 +1,7 @@
 ### HI, I'M HXRIZXNQQ (EUGENE)
 I am new in IT. Learning programming languages for **frontend**, like javascript and python for db.
-<a href="https://git.io/typing-svg
+<hr>
 <img src="https://readme-typing-svg.herokuapp.com?font=&duration=4000&pause=500&color=000000&repeat=true&width=435&lines=coding+a+websites;welcome+(%5E%2F%2F%2F%5E)" alt="Typing SVG" />
-/a>
 
 
 - 🧠 I'm a trainee Front End Developer
